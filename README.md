@@ -6,11 +6,9 @@
 
 ---
 
- <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtpaTcxMHo5Y3k1djhmY3gzZXI0azMzejNvY3ZvZWQ0NGEwYXY2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp"/> 
- <img align="centre" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+ <img align="centre" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
 
 ---
-
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=999999&color=7AA2F7&center=true&vCenter=true&width=600&lines=+ABOUT_ME"/>
 </p>
@@ -18,21 +16,14 @@
 
 ---
 
-<p align="left">
+<p align="right">
 
-<span style="color:#C0CAF5; font-size:18px; line-height:28px;">
+Hello, my name is Aayush.  
+I design and build intelligent, production-ready software by combining  
+Full Stack Development, AI / Machine Learning Modeling, and Data Engineering & Visualization. 
+I enjoy turning raw data into meaningful insights and building scalable systems that solve real-world problems.
 
-🚀 <b style="color:#7AA2F7;">Production Grade Full Stack Applications</b> <br>
 
-🤖 <b style="color:#BB9AF7;">AI + Machine Learning Integrated Platforms</b> <br>
-
-📊 <b style="color:#73DACA;">Data Cleaning • Data Visualization • ML Modeling</b> <br>
-
-🗄️ <b style="color:#7DCFFF;">Real Database Driven System Development</b> <br>
-
-⚡ <b style="color:#F7768E;">Scalable Backend Architectures & APIs</b>
-
-</span>
 
 </p>
 
@@ -100,7 +91,8 @@
 ---
 
 <p>
-<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
+<img src="https://i.pinimg.com/originals/8c/13/01/8c1301d108a7a4f555d1cb8f0ffb63d5.gif"/>
 </p>
+
 
 
