@@ -1,13 +1,14 @@
-<h1 align="center">⚡ Aayush ⚡</h1>
+<h1 align="center">👨‍💻 Software Developer & AI Enthusiast</h1>
 
 <p align="centre">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+%2B+Next.js+Engineer;AI+%2B+ML+Application+Builder;Data+Visualization+%2B+Engineering;Backend+%2B+System+Design" />
 </p>
 
 ---
-<p align="center">
-<img src=""/>
-</p>
+
+ <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtpaTcxMHo5Y3k1djhmY3gzZXI0azMzejNvY3ZvZWQ0NGEwYXY2ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp"/> 
+ <img align="centre" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ---
 
 <p align="left">
@@ -67,21 +68,18 @@
 
 ---
 
-<img align="right" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/abc123/giphy.gif" width="30"/> 
   📊 GITHUB_ANALYTICS
 </h2>
 
-<p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Aayush-207&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img align="right" height="220" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTBpaXFzbmQ3Z3Y3b3FucHI2N3BhY2lybHgyNjB1czJxZ3Z3dzFxYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.webp"/>
+<p align="centre">
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush-207&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-207&layout=compact&theme=tokyonight"/>
-</p>
+
+
 
 ---
 
@@ -101,13 +99,8 @@
 
 ---
 
-## 🎧 NOW_PLAYING.spotify
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31placeholder&cover_image=true&theme=novatorem"/>
+<p>
+<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
 </p>
 
----
-
-## 🧠 DEV_PHILOSOPHY.txt
 
