@@ -1,12 +1,12 @@
 <h1 align="center">⚡ Aayush ⚡</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+%2B+Next.js+Engineer;AI+%2B+ML+Application+Builder;Data+Visualization+%2B+Engineering;Backend+%2B+System+Design" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212749695-4d2e3c37-6f0d-4e7d-8b43-8d6b2df5c7a2.gif" width="90%"/>
 </p>
 
@@ -14,14 +14,14 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=999999&color=7AA2F7&center=true&vCenter=true&width=600&lines=🧠+ABOUT_ME"/>
 </p>
 
 
 ---
 
-<p align="center">
+<p align="left">
 
 <span style="color:#C0CAF5; font-size:18px; line-height:28px;">
 
